@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 import os
 
-FILE = "Trade_Logger/trades.csv"
+FILE = "trades.csv"
 COLUMNS = ["Date", "Strategy", "Symbol", "Entry", "Exit", "Qty", "Type", "PnL"]
 
 def load_trades():
