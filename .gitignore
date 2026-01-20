@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+Trade_Logger/trades.csv
+.env
